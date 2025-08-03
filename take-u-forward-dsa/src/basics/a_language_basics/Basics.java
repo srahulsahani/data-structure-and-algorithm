@@ -1,4 +1,4 @@
-package basics.language_basics_1;
+package basics.a_language_basics;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package basics.patterns_3;
+package basics.c_patterns;
 
 /*
      *****
